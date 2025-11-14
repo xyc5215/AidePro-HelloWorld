@@ -23,8 +23,9 @@ A simple HelloWorld sample application created with AIDE (Android IDE). This is 
 ### Installation & Usage
 1. Clone this repository:
 
-bash
+```bash
 git clone -b HelloWorld "https://github.com/xyc5215/AidePro-HelloWorld.git" (https://github.com/xyc5215/AidePro-HelloWorld.git)
+```
 
 2. Open the project in AIDE or Android Studio
 3. Build and run the application
@@ -59,8 +60,9 @@ This project serves as a starting point for Android development learning. You ca
 ### 安装与使用
 1. 克隆此仓库：
 
-bash
+```bash
 git clone -b HelloWorld "https://github.com/xyc5215/AidePro-HelloWorld.git" (https://github.com/xyc5215/AidePro-HelloWorld.git)
+```
 
 2. 在 AIDE 或 Android Studio 中打开项目
 3. 构建并运行应用程序
