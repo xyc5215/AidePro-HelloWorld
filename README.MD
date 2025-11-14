@@ -16,9 +16,7 @@ A simple HelloWorld sample application created with AIDE (Android IDE). This is 
 - Perfect for learning Android development basics
 
 ### Requirements
-- Android Studio or AIDE (Android IDE)
-- Android SDK
-- Minimum API Level: 21 (Android 5.0)
+- AIDE (Android IDE)
 
 ### Installation & Usage
 1. Clone this repository:
@@ -53,9 +51,7 @@ This project serves as a starting point for Android development learning. You ca
 - 非常适合学习 Android 开发基础
 
 ### 环境要求
-- Android Studio 或 AIDE (Android IDE)
-- Android SDK
-- 最低 API 级别: 21 (Android 5.0)
+- AIDE (Android IDE)
 
 ### 安装与使用
 1. 克隆此仓库：
